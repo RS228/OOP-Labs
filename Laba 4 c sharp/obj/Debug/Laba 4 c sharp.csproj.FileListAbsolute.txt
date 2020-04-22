@@ -1,0 +1,6 @@
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 4 c sharp\obj\Debug\Laba 4 c sharp.csprojAssemblyReference.cache
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 4 c sharp\bin\Debug\Laba 4 c sharp.exe.config
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 4 c sharp\bin\Debug\Laba 4 c sharp.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 4 c sharp\bin\Debug\Laba 4 c sharp.pdb
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 4 c sharp\obj\Debug\Laba 4 c sharp.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 4 c sharp\obj\Debug\Laba 4 c sharp.pdb

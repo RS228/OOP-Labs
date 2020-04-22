@@ -1,0 +1,6 @@
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\laba_3\bin\Debug\laba_3.exe.config
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\laba_3\bin\Debug\laba_3.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\laba_3\bin\Debug\laba_3.pdb
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\laba_3\obj\Debug\laba_3.csprojAssemblyReference.cache
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\laba_3\obj\Debug\laba_3.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\laba_3\obj\Debug\laba_3.pdb

@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Laba 5 c++.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(21,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(22,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(39,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(43,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(68,1): error C3867: 'Point::GetTheNameOfVertex': non-standard syntax; use '&' to create a pointer to member
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(68,1): error C2446: '==': no conversion from 'int' to 'char (__thiscall Point::* )(void)'
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(68,41): message : There are no conversions from integral values to pointer-to-member values
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(70,1): error C3867: 'Point::GetX': non-standard syntax; use '&' to create a pointer to member
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(70,1): error C2440: '=': cannot convert from 'float (__thiscall Point::* )(void)' to 'float'
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(70,21): message : There is no context in which this conversion is possible
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(71,1): error C3867: 'Point::GetY': non-standard syntax; use '&' to create a pointer to member
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(71,1): error C2440: '=': cannot convert from 'float (__thiscall Point::* )(void)' to 'float'
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(71,21): message : There is no context in which this conversion is possible
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(73,1): error C3867: 'Point::GetTheNameOfVertex': non-standard syntax; use '&' to create a pointer to member
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(73,1): error C2446: '==': no conversion from 'int' to 'char (__thiscall Point::* )(void)'
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(73,41): message : There are no conversions from integral values to pointer-to-member values
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(75,1): error C3867: 'Point::GetX': non-standard syntax; use '&' to create a pointer to member
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(75,1): error C2440: '=': cannot convert from 'float (__thiscall Point::* )(void)' to 'float'
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(75,21): message : There is no context in which this conversion is possible
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(76,1): error C3867: 'Point::GetY': non-standard syntax; use '&' to create a pointer to member
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(76,1): error C2440: '=': cannot convert from 'float (__thiscall Point::* )(void)' to 'float'
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(76,21): message : There is no context in which this conversion is possible
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(89,1): error C3867: 'Point::GetX': non-standard syntax; use '&' to create a pointer to member
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 c++\main.cpp(89,1): error C3867: 'Point::GetY': non-standard syntax; use '&' to create a pointer to member

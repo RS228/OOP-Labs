@@ -1,0 +1,6 @@
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 csharp2\obj\Release\Laba 5 csharp2.csprojAssemblyReference.cache
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 csharp2\bin\Release\Laba 5 csharp2.exe.config
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 csharp2\bin\Release\Laba 5 csharp2.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 csharp2\bin\Release\Laba 5 csharp2.pdb
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 csharp2\obj\Release\Laba 5 csharp2.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 5 csharp2\obj\Release\Laba 5 csharp2.pdb
