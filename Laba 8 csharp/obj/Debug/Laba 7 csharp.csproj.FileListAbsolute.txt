@@ -1,0 +1,6 @@
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 7 csharp\obj\Debug\Laba 7 csharp.csprojAssemblyReference.cache
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 7 csharp\bin\Debug\Laba 7 csharp.exe.config
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 7 csharp\bin\Debug\Laba 7 csharp.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 7 csharp\bin\Debug\Laba 7 csharp.pdb
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 7 csharp\obj\Debug\Laba 7 csharp.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba 7 csharp\obj\Debug\Laba 7 csharp.pdb

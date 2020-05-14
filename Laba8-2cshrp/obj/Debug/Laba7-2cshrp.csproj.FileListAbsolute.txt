@@ -1,0 +1,6 @@
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba7-2cshrp\bin\Debug\Laba7-2cshrp.exe.config
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba7-2cshrp\bin\Debug\Laba7-2cshrp.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba7-2cshrp\bin\Debug\Laba7-2cshrp.pdb
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba7-2cshrp\obj\Debug\Laba7-2cshrp.csprojAssemblyReference.cache
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba7-2cshrp\obj\Debug\Laba7-2cshrp.exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba7-2cshrp\obj\Debug\Laba7-2cshrp.pdb
