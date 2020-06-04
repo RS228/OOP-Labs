@@ -1,0 +1,7 @@
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba_8cshrp(list)\bin\Debug\Laba_8cshrp(list).exe.config
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba_8cshrp(list)\bin\Debug\Laba_8cshrp(list).exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba_8cshrp(list)\bin\Debug\Laba_8cshrp(list).pdb
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba_8cshrp(list)\obj\Debug\Laba_8cshrp(list).csprojAssemblyReference.cache
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba_8cshrp(list)\obj\Debug\Laba_8cshrp(list).exe
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba_8cshrp(list)\obj\Debug\Laba_8cshrp(list).pdb
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba_8cshrp(list)\obj\Debug\Laba_8cshrp(list).csproj.CoreCompileInputs.cache

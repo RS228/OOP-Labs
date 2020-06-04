@@ -1,0 +1,3 @@
+﻿  List.cpp
+F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Laba_8_c++(list)\List.cpp(47): warning C4715: 'List::operator[]': not all control paths return a value
+  Laba_8_c++(list).vcxproj -> F:\Мої проекти С++\2 сесестр\ООП\Laboratory_work_OF_OOP\Debug\Laba_8_c++(list).exe
